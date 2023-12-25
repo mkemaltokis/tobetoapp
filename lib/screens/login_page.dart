@@ -36,11 +36,9 @@ class _LoginPageState extends State<LoginPage> {
                 child: Container(
                   width: 350,
                   height: 410,
-                  //dikkat
-                  //asdfa
                   decoration: BoxDecoration(
-                    borderRadius: BorderRadius.circular(40),
-                    color: Colors.black,
+                    borderRadius: BorderRadius.circular(20),
+                    color: Colors.white,
                   ),
                   child: Column(
                     children: [
